@@ -6,6 +6,8 @@
 
 a repo for West World content
 
+[Medium - West World Design](https://medium.com/@clarklab/the-design-of-westworld-958da3d64782)
+
 
 
 ## Python
