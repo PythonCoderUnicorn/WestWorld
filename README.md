@@ -5,3 +5,9 @@
 # WestWorld
 
 a repo for West World content
+
+
+
+## Python
+
+- [Season 1 Sentiment Analysis](https://github.com/EricLu317/West-World-S1-Finale-Character-Sentiment)
