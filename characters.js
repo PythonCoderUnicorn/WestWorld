@@ -54,7 +54,7 @@ let main_characters = {
         first_name: 'Charlotte',
         last_name: 'Hale',
         pronouns: 'She/Her/Hers',
-        role: 'Delco business woman',
+        role: 'Delos business woman',
         status: 'active',
         interacts_with:'humans'
     },
@@ -102,7 +102,7 @@ let main_characters = {
         first_name: 'Elsie',
         last_name: 'Hughes',
         pronouns: 'She/Her/Hers',
-        role: 'Delco Quality Assurance of hosts',
+        role: 'Delos Quality Assurance of hosts',
         status: 'active',
         interacts_with:'humans & hosts'
     },
@@ -110,7 +110,7 @@ let main_characters = {
         first_name: 'Felix',
         last_name: 'Lutz',
         pronouns: 'He/Him/His',
-        role: 'Delco host repairman',
+        role: 'Delos host repairman',
         status: 'active',
         interacts_with:'hosts'
     },
@@ -119,7 +119,7 @@ let main_characters = {
         last_name: '',
         pronouns: 'He/Him/His',
         role: '',
-        status: 'Delco host repairman',
+        status: 'Delos host repairman',
         interacts_with:'hosts'
     }
 
